@@ -1,0 +1,92 @@
+{
+  "templates": {
+    "lírico": [
+      "En la {hora_del_día}, {emoción} llena el {lugar}",
+      "El {elemento_natural} susurra {mensaje} al {oyente}",
+      "Entre {lugar1} y {lugar2}, {concepto_abstracto} habita",
+      "Cuando llega {estación}, {sentimiento} florece como {flor}",
+      "A través de {clima} y {dificultad}, {palabra_esperanza} persevera",
+      "Sombras {color} danzan sobre la {superficie}",
+      "En silencio, {memoria} resuena a través del {espacio}",
+      "La {cuerpo_celeste} vigila sobre {amado}"
+    ],
+    "narrativo": [
+      "Una vez, en {lugar}, vivía un {personaje}",
+      "El viaje comenzó en {punto_inicio} con {compañero}",
+      "A través de {obstáculo}, {protagonista} descubrió {verdad}",
+      "En {período_tiempo}, cuando {evento} ocurrió",
+      "El {misterio} de {lugar} finalmente se reveló",
+      "Contra toda {oposición}, {héroe} eligió {camino}",
+      "Desde {origen} hasta {destino}, {transformación} se desplegó"
+    ],
+    "descriptivo": [
+      "El {adjetivo1} {sustantivo1} {verbo} {adverbio}",
+      "Bajo la {cubierta}, {cosa_oculta} {acción}",
+      "Entre {grupo}, {individual} se alza {manera}",
+      "Como {comparación}, {sujeto} {movimiento}",
+      "Con {cualidad}, {entidad} {comportamiento}",
+      "La {textura} del {material} revela {secreto}",
+      "En el {contenedor}, {contenido} {estado}"
+    ],
+    "melancólico": [
+      "Perdido en {tiempo}, {memoria} se desvanece como {cosa_efímera}",
+      "La {ausencia} de {faltante} persigue el {espacio}",
+      "En {soledad}, {tristeza} acompaña a {pesar}",
+      "Una vez {brillo} resplandeció, ahora {oscuridad} permanece",
+      "Lo {cosa_rota} nunca puede ser {estado_restaurado}",
+      "A través de {lágrimas}, {pasado} se difumina en {presente}",
+      "Donde {alegría} una vez vivió, {vacío} habita"
+    ],
+    "alegre": [
+      "La luz {verbo} a través de {medio} trayendo {regalo}",
+      "En {celebración}, {comunidad} {acción} juntos",
+      "La {música} de {felicidad} llena la {atmósfera}",
+      "Con {entusiasmo}, {vida} {florece} en todas partes",
+      "Bailando {movimiento}, {espíritu} {vuela} sobre {limitación}",
+      "La risa {se_extiende} como {fenómeno_natural}",
+      "En {momento}, {dicha} {abraza} toda {existencia}"
+    ]
+  },
+  "word_sets": {
+    "hora_del_día": ["amanecer", "mañana", "mediodía", "crepúsculo", "atardecer", "medianoche", "tarde"],
+    "emociones": ["amor", "anhelo", "esperanza", "desesperación", "alegría", "melancolía", "asombro", "paz"],
+    "lugares": ["jardín", "bosque", "prado", "orilla", "montaña", "valle", "campo", "arroyo"],
+    "elementos_naturales": ["viento", "lluvia", "luz solar", "neblina", "trueno", "nieve", "río", "océano"],
+    "mensajes": ["secretos", "historias", "promesas", "advertencias", "canciones", "oraciones", "sueños"],
+    "oyentes": ["corazón", "alma", "mundo", "soñador", "vagabundo", "buscador", "amado"],
+    "conceptos_abstractos": ["verdad", "belleza", "tiempo", "memoria", "libertad", "sabiduría", "eternidad"],
+    "estaciones": ["primavera", "verano", "otoño", "invierno"],
+    "sentimientos": ["esperanza", "amor", "asombro", "paz", "anhelo", "contentamiento"],
+    "flores": ["rosas", "lirios", "margaritas", "violetas", "jazmín", "flores de cerezo"],
+    "clima": ["tormentas", "sol", "nieve", "lluvia", "viento", "niebla"],
+    "dificultades": ["oscuridad", "frío", "distancia", "silencio", "pérdida", "cambio"],
+    "palabras_esperanza": ["luz", "amor", "fe", "coraje", "fuerza", "esperanza"],
+    "colores": ["doradas", "plateadas", "carmesí", "azules", "esmeraldas", "perladas", "ámbar"],
+    "superficies": ["agua", "hojas", "piedra", "cristal", "tierra", "cielo", "paredes"],
+    "memorias": ["infancia", "primer amor", "risa", "lágrimas", "sueños", "promesas"],
+    "espacios": ["pasillos", "cámaras", "jardines", "valles", "bosques", "mentes"],
+    "cuerpos_celestes": ["luna", "sol", "estrellas", "constelación", "cometa", "planeta"],
+    "amados": ["hijos", "amantes", "soñadores", "vagabundos", "los perdidos", "los encontrados"],
+    "adjetivos": ["suave", "feroz", "antiguo", "delicado", "profundo", "luminoso", "etéreo"],
+    "sustantivos": ["árbol", "pájaro", "piedra", "llama", "sombra", "susurro", "eco", "aliento"],
+    "verbos": ["baila", "canta", "fluye", "brilla", "susurra", "vuela", "florece", "resplandece"],
+    "adverbios": ["graciosamente", "silenciosamente", "audazmente", "tiernamente", "misteriosamente", "eternamente"],
+    "objetos": ["espejo", "llave", "puerta", "ventana", "puente", "sendero", "montaña", "océano"],
+    "conceptos": ["viaje", "transformación", "descubrimiento", "despertar", "conexión", "soledad"]
+  },
+  "metaphor_patterns": [
+    "{sujeto} es un {objeto_metáfora} en el {contexto}",
+    "El {objeto_metáfora} de {concepto_abstracto}",
+    "{sujeto} se convierte en el {objeto_metáfora}",
+    "Dentro de {sujeto} yace un {objeto_metáfora}",
+    "Como un {objeto_metáfora}, {sujeto} {acción}"
+  ],
+  "simile_patterns": [
+    "como {objeto} en {contexto}",
+    "tan {adjetivo} como {comparación}",
+    "moviéndose como {fenómeno_natural}",
+    "suave como {cosa_suave}",
+    "brillante como {objeto_luminoso}",
+    "profundo como {cosa_profunda}"
+  ]
+}
