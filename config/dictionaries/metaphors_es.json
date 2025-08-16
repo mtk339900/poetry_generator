@@ -1,0 +1,20 @@
+{
+  "metaphor_patterns": [
+    "La vida es un {metáfora_viaje}",
+    "El amor es un {metáfora_fuego}",
+    "El tiempo es un {metáfora_río}",
+    "La esperanza es una {metáfora_luz}",
+    "La memoria es un {metáfora_contenedor}",
+    "Los sueños son {metáfora_vuelo}",
+    "Las palabras son {metáfora_arma}",
+    "El silencio es un {metáfora_manta}"
+  ],
+  "metáforas_viaje": ["sendero serpenteante", "laberinto", "travesía oceánica", "escalada montañosa", "danza", "historia"],
+  "metáforas_fuego": ["llama ardiente", "brasa resplandeciente", "incendio forestal", "vela", "fragua", "hogar"],
+  "metáforas_río": ["arroyo fluyente", "corriente eterna", "riachuelo serpenteante", "torrente impetuoso", "marea suave"],
+  "metáforas_luz": ["faro brillante", "estrella matutina", "llama guía", "hilo dorado", "alba radiante"],
+  "metáforas_contenedor": ["cofre del tesoro", "vasija sagrada", "jardín secreto", "biblioteca", "galería"],
+  "metáforas_vuelo": ["águilas planeando", "nubes flotantes", "mariposas danzantes", "globos ascendentes"],
+  "metáforas_arma": ["espadas afiladas", "bálsamo curativo", "constructores de puentes", "llaves", "espejos"],
+  "metáforas_manta": ["velo suave", "escudo protector", "abrazo tierno", "espacio sagrado"]
+}
