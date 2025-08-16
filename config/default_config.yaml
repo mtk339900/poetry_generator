@@ -1,0 +1,62 @@
+# Poetry Generator Default Configuration
+
+generation:
+  mode: hybrid                    # template, markov, hybrid
+  max_length: 50                  # maximum words to generate
+  temperature: 1.0                # randomness control (0.1-2.0)
+  blend_ratio: 0.5               # template/markov blend for hybrid mode
+  hybrid_mode: blend             # alternate, blend, enhance, compete
+  language: en                   # en, es
+
+corpus:
+  min_words: 100                 # minimum words required in corpus
+  remove_stopwords: true         # filter common stopwords
+  min_word_freq: 1              # minimum frequency to include word
+  max_vocabulary: null          # limit vocabulary size (null = no limit)
+  encoding: utf-8               # text file encoding
+
+markov:
+  n_gram_order: 2               # n-gram size for Markov chains
+  temperature: 1.0              # temperature for Markov generation
+  sentence_boundaries: true     # detect sentence boundaries
+
+template:
+  formality: 0.5                # formality level (0.0-1.0)
+  emotion_intensity: 0.5        # emotional intensity (0.0-1.0)
+  imagery_density: 0.5          # imagery density (0.0-1.0)
+
+style:
+  poem_form: free_verse         # free_verse, rhymed, fixed_pattern
+  rhyme_scheme: null            # ABAB, AABA, etc.
+  syllable_pattern: null        # e.g., "5,7,5" for haiku-like
+  stanza_count: 1              # number of stanzas
+  lines_per_stanza: 4          # lines per stanza
+
+figurative:
+  metaphor_probability: 0.3     # probability of adding metaphors
+  simile_probability: 0.3       # probability of adding similes
+  personification_probability: 0.2  # probability of personification
+  alliteration_probability: 0.1 # probability of alliteration
+  sensory_enhancement: true     # add sensory details
+
+output:
+  format: text                  # text, markdown
+  include_title: true           # generate poem titles
+  title_generation: keyword_based  # keyword_based, first_line
+  line_endings: auto           # auto, manual
+  export_path: null            # default export directory
+
+logging:
+  level: INFO                   # DEBUG, INFO, WARNING, ERROR
+  file: null                   # log file path (null = console only)
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+random:
+  seed: null                   # random seed (null = random)
+  reproducible: false          # ensure reproducible results
+
+files:
+  corpus_dir: corpora          # corpus files directory
+  template_dir: config/templates  # template files directory
+  dictionary_dir: config/dictionaries  # figurative dictionaries directory
+  output_dir: output           # default output directory
