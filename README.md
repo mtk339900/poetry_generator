@@ -33,7 +33,7 @@ A production-ready Python system for generating original short poems and prose u
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/mtk339900/poetry_generator.git
 cd poetry_generator
 
 # Install dependencies
