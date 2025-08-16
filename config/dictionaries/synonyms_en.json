@@ -1,0 +1,17 @@
+{
+  "beautiful": ["lovely", "gorgeous", "stunning", "magnificent", "radiant", "exquisite"],
+  "sad": ["melancholy", "sorrowful", "mournful", "dejected", "despondent", "wistful"],
+  "happy": ["joyful", "elated", "blissful", "euphoric", "ecstatic", "jubilant"],
+  "big": ["enormous", "vast", "immense", "colossal", "gigantic", "tremendous"],
+  "small": ["tiny", "minuscule", "petite", "diminutive", "compact", "delicate"],
+  "bright": ["radiant", "luminous", "brilliant", "gleaming", "dazzling", "vivid"],
+  "dark": ["shadowy", "dim", "murky", "obscure", "somber", "gloomy"],
+  "fast": ["swift", "rapid", "speedy", "hasty", "fleet", "brisk"],
+  "slow": ["gradual", "leisurely", "languid", "sluggish", "unhurried", "measured"],
+  "love": ["adoration", "affection", "devotion", "passion", "tenderness", "cherish"],
+  "hate": ["despise", "loathe", "detest", "abhor", "resent", "scorn"],
+  "walk": ["stroll", "saunter", "wander", "amble", "stride", "pace"],
+  "run": ["sprint", "dash", "race", "bolt", "flee", "hurry"],
+  "speak": ["whisper", "murmur", "declare", "proclaim", "utter", "express"],
+  "look": ["gaze", "peer", "observe", "behold", "witness", "contemplate"]
+}
