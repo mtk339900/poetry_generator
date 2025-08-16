@@ -1,0 +1,15 @@
+{
+  "hermoso": ["bello", "precioso", "magnífico", "radiante", "exquisito", "espléndido"],
+  "triste": ["melancólico", "doliente", "pesaroso", "abatido", "nostálgico", "lamentoso"],
+  "feliz": ["alegre", "gozoso", "dichoso", "eufórico", "jubiloso", "regocijado"],
+  "grande": ["enorme", "vasto", "inmenso", "colosal", "gigantesco", "tremendo"],
+  "pequeño": ["diminuto", "minúsculo", "delicado", "compacto", "menudo", "reducido"],
+  "brillante": ["radiante", "luminoso", "resplandeciente", "deslumbrante", "vívido", "fulgurante"],
+  "oscuro": ["sombrío", "tenebroso", "opaco", "lúgubre", "turbio", "nebuloso"],
+  "rápido": ["veloz", "ligero", "ágil", "presto", "acelerado", "expedito"],
+  "lento": ["pausado", "moroso", "perezoso", "tardío", "gradual", "sosegado"],
+  "amor": ["cariño", "afecto", "ternura", "pasión", "devoción", "adoración"],
+  "caminar": ["pasear", "deambular", "transitar", "andar", "vagar", "recorrer"],
+  "hablar": ["conversar", "charlar", "dialogar", "expresar", "comunicar", "proclamar"],
+  "mirar": ["contemplar", "observar", "avistar", "otear", "examinar", "divisar"]
+}
