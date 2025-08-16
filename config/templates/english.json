@@ -1,0 +1,101 @@
+{
+  "templates": {
+    "lyrical": [
+      "In the {time_of_day}, {emotion} fills the {location}",
+      "The {natural_element} whispers {message} to the {listener}",
+      "Between {place1} and {place2}, {abstract_concept} dwells",
+      "When {season} arrives, {feeling} blooms like {flower}",
+      "Through {weather} and {hardship}, {hope_word} perseveres",
+      "{color} shadows dance across the {surface}",
+      "In silence, {memory} echoes through {space}",
+      "The {celestial_body} watches over {beloved}"
+    ],
+    "narrative": [
+      "Once, in {location}, there lived a {character}",
+      "The journey began at {starting_point} with {companion}",
+      "Through {obstacle}, {protagonist} discovered {truth}",
+      "In {time_period}, when {event} occurred",
+      "The {mystery} of {place} was finally revealed",
+      "Against all {opposition}, {hero} chose {path}",
+      "From {origin} to {destination}, {transformation} unfolded"
+    ],
+    "descriptive": [
+      "The {adjective1} {noun1} {verb} {adverb}",
+      "Beneath the {covering}, {hidden_thing} {action}",
+      "Among {group}, {individual} stands {manner}",
+      "Like {comparison}, {subject} {movement}",
+      "With {quality}, {entity} {behavior}",
+      "The {texture} of {material} reveals {secret}",
+      "In the {container}, {contents} {state}"
+    ],
+    "philosophical": [
+      "What is {abstract_concept} but {metaphor}?",
+      "In the realm of {domain}, {principle} governs all",
+      "Between {opposite1} and {opposite2} lies {balance}",
+      "The nature of {phenomenon} transcends {limitation}",
+      "Within {consciousness}, {realization} awakens",
+      "Truth manifests as {form} in {context}",
+      "The paradox of {contradiction} illuminates {wisdom}"
+    ],
+    "melancholic": [
+      "Lost in {time}, {memory} fades like {ephemeral_thing}",
+      "The {absence} of {missing} haunts the {space}",
+      "In {solitude}, {sorrow} keeps company with {regret}",
+      "Once {brightness} shone, now {darkness} remains",
+      "The {broken_thing} can never be {restored_state}",
+      "Through {tears}, {past} blurs into {present}",
+      "Where {joy} once lived, {emptiness} dwells"
+    ],
+    "joyful": [
+      "Light {verb} through {medium} bringing {gift}",
+      "In {celebration}, {community} {action} together",
+      "The {music} of {happiness} fills the {atmosphere}",
+      "With {enthusiasm}, {life} {flourishes} everywhere",
+      "Dancing {movement}, {spirit} {soars} above {limitation}",
+      "Laughter {spreads} like {natural_phenomenon}",
+      "In {moment}, {bliss} {embraces} all {existence}"
+    ]
+  },
+  "word_sets": {
+    "time_of_day": ["dawn", "morning", "noon", "twilight", "dusk", "midnight", "evening"],
+    "emotions": ["love", "longing", "hope", "despair", "joy", "melancholy", "wonder", "peace"],
+    "locations": ["garden", "forest", "meadow", "shore", "mountain", "valley", "field", "stream"],
+    "natural_elements": ["wind", "rain", "sunlight", "mist", "thunder", "snow", "river", "ocean"],
+    "messages": ["secrets", "stories", "promises", "warnings", "songs", "prayers", "dreams"],
+    "listeners": ["heart", "soul", "world", "dreamer", "wanderer", "seeker", "beloved"],
+    "abstract_concepts": ["truth", "beauty", "time", "memory", "freedom", "wisdom", "eternity"],
+    "seasons": ["spring", "summer", "autumn", "winter"],
+    "feelings": ["hope", "love", "wonder", "peace", "yearning", "contentment"],
+    "flowers": ["roses", "lilies", "daisies", "violets", "jasmine", "cherry blossoms"],
+    "weather": ["storms", "sunshine", "snow", "rain", "wind", "fog"],
+    "hardships": ["darkness", "cold", "distance", "silence", "loss", "change"],
+    "hope_words": ["light", "love", "faith", "courage", "strength", "hope"],
+    "colors": ["golden", "silver", "crimson", "azure", "emerald", "pearl", "amber"],
+    "surfaces": ["water", "leaves", "stone", "glass", "earth", "sky", "walls"],
+    "memories": ["childhood", "first love", "laughter", "tears", "dreams", "promises"],
+    "spaces": ["halls", "chambers", "gardens", "valleys", "forests", "minds"],
+    "celestial_bodies": ["moon", "sun", "stars", "constellation", "comet", "planet"],
+    "beloveds": ["children", "lovers", "dreamers", "wanderers", "the lost", "the found"],
+    "adjectives": ["gentle", "fierce", "ancient", "delicate", "profound", "luminous", "ethereal"],
+    "nouns": ["tree", "bird", "stone", "flame", "shadow", "whisper", "echo", "breath"],
+    "verbs": ["dances", "sings", "flows", "glows", "whispers", "soars", "blooms", "shimmers"],
+    "adverbs": ["gracefully", "silently", "boldly", "tenderly", "mysteriously", "eternally"],
+    "objects": ["mirror", "key", "door", "window", "bridge", "path", "mountain", "ocean"],
+    "concepts": ["journey", "transformation", "discovery", "awakening", "connection", "solitude"]
+  },
+  "metaphor_patterns": [
+    "{subject} is a {metaphor_object} in the {context}",
+    "The {metaphor_object} of {abstract_concept}",
+    "{subject} becomes the {metaphor_object}",
+    "Within {subject} lies a {metaphor_object}",
+    "Like a {metaphor_object}, {subject} {action}"
+  ],
+  "simile_patterns": [
+    "like {object} in {context}",
+    "as {adjective} as {comparison}",
+    "moving like {natural_phenomenon}",
+    "soft as {gentle_thing}",
+    "bright as {luminous_object}",
+    "deep as {profound_thing}"
+  ]
+}
