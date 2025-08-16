@@ -1,0 +1,34 @@
+{
+  "metaphor_patterns": [
+    "Life is a {journey_metaphor}",
+    "Love is a {fire_metaphor}",
+    "Time is a {river_metaphor}",
+    "Hope is a {light_metaphor}",
+    "Memory is a {container_metaphor}",
+    "Dreams are {flight_metaphor}",
+    "Words are {weapon_metaphor}",
+    "Silence is a {blanket_metaphor}"
+  ],
+  "journey_metaphors": ["winding road", "labyrinth", "ocean voyage", "mountain climb", "dance", "story"],
+  "fire_metaphors": ["burning flame", "glowing ember", "wildfire", "candle", "forge", "hearth"],
+  "river_metaphors": ["flowing stream", "endless current", "meandering brook", "rushing torrent", "gentle tide"],
+  "light_metaphors": ["shining beacon", "morning star", "guiding flame", "golden thread", "bright dawn"],
+  "container_metaphors": ["treasure chest", "sacred vessel", "hidden garden", "library", "gallery"],
+  "flight_metaphors": ["soaring eagles", "floating clouds", "dancing butterflies", "rising balloons"],
+  "weapon_metaphors": ["sharp swords", "healing balm", "bridge builders", "keys", "mirrors"],
+  "blanket_metaphors": ["soft veil", "protective shield", "gentle embrace", "sacred space"],
+  "extended_metaphors": {
+    "seasons_of_life": [
+      "Spring brings new beginnings",
+      "Summer blazes with passion",
+      "Autumn teaches letting go",
+      "Winter whispers of rest"
+    ],
+    "ocean_of_emotion": [
+      "Waves of feeling crash over me",
+      "In the depths, currents stir",
+      "Tides of change pull and push",
+      "The surface reflects the sky"
+    ]
+  }
+}
